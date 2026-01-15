@@ -43,9 +43,9 @@ export function Navbar() {
 
         <div className="flex h-16 items-center justify-between">
               <Link href="/" className="text-lg font-semibold">
-                <div className="flex items-center gap-2 text-white">
-                  <BarChart3 size={28} className="text-primary-foreground" />
-                  <span className="text-xl text-lg sm:text-xl font-bold text-background">ZiSSA</span>
+                <div className="flex items-center gap-2">
+                  <BarChart3 size={28} />
+                  <span className="text-xl text-lg sm:text-xl font-bold">ZiSSA</span>
                 </div>
               </Link>
             
