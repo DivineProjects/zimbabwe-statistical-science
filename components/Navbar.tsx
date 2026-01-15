@@ -42,7 +42,7 @@ export function Navbar() {
           
           {/* Logo */}
           <Link href="/" className="text-lg font-semibold">
-            Statistics Council
+            Zimbabwe Stastical Science Association
           </Link>
 
           {/* Desktop Nav */}
@@ -73,7 +73,7 @@ export function Navbar() {
                       Membership Overview
                     </MenuItem>
                     <MenuItem href="/membership/join">
-                      Join the Institute
+                      Join the Association
                     </MenuItem>
                   </ul>
                 </NavigationMenuContent>
